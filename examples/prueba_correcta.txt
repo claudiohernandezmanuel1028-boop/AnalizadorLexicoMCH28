@@ -1,0 +1,7 @@
+// Prueba 1 - Codigo correcto
+int edad = 20;
+float precio = 150.50;
+
+if (edad >= 18) {
+    precio = precio + 10;
+}

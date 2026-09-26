@@ -1,0 +1,7 @@
+// Prueba 4 - Errores lexicos intencionales
+int edad = 20;
+int 123abc = 5;
+float precio = 150.50;
+int total = precio @ 10;
+string nombre = "Manuel;
+bool activo = #true;

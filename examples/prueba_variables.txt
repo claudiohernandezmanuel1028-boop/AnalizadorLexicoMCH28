@@ -1,0 +1,8 @@
+// Prueba 2 - Variables y operaciones
+int a = 10;
+int b = 20;
+int resultado = a + b;
+
+while (resultado > 0) {
+    resultado = resultado - 1;
+}
